@@ -68,6 +68,14 @@
 
 <img src="https://streak-stats.demolab.com?user=Harshaaalll&theme=tokyonight&hide_border=true" alt="streak" />
 
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshaaalll/Harshaaalll/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshaaalll/Harshaaalll/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Harshaaalll/Harshaaalll/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
