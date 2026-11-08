@@ -1,33 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshal%20Bhambhani&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Evals&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1d16,50:7a4a2b,100:f4a261&height=210&section=header&text=Harshal%20Bhambhani&fontColor=fff3e6&fontSize=48&fontAlignY=36&desc=%F0%9F%90%B1%20AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Evals&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
-<a href="https://harshaaalll.github.io/"><img src="https://img.shields.io/badge/Portfolio-harshaaalll.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/harshal-bhambhani-hhbb24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bhambhaniharshal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+```text
+  /\_/\
+ ( o.o )   purr... shipping AI systems, one paw at a time
+  > ^ <
+```
 
-<img src="https://komarev.com/ghpvc/?username=Harshaaalll&label=Profile%20views&color=2c5364&style=flat" alt="views" />
+<a href="https://harshaaalll.github.io/"><img src="https://img.shields.io/badge/Portfolio-harshaaalll.github.io-f4a261?style=for-the-badge&logo=githubpages&logoColor=2b1d16" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/harshal-bhambhani-hhbb24"><img src="https://img.shields.io/badge/LinkedIn-Connect-e76f51?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bhambhaniharshal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20meow-7a4a2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br />
+<img src="https://komarev.com/ghpvc/?username=Harshaaalll&label=Profile%20views&color=f4a261&labelColor=2b1d16&style=flat" alt="views" />
+
+<br /><br />
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
-<sub>🐟 A koi drawn from my public GitHub activity, redrawn every night.</sub>
+<sub>🐟 A koi drawn from my public GitHub activity, redrawn every night. (The cat is watching it.)</sub>
 
 </div>
 
 ---
 
-## 👋 About me
+## 🐾 About me
 
 - 🎓 Graduate of **BITS Pilani, Hyderabad Campus**
 - 🔭 Building **retrieval-augmented generation (RAG)** systems, **multi-agent workflows** and the **evals** that keep them honest
 - 🧪 Interested in human-approved agent actions, trace-level evaluation and voice / speech pipelines
+- 😺 Curious like a cat: I poke at things until I understand how they work
 - 📫 Best way to reach me: LinkedIn or email, both above
 
 ---
 
-## 🛠️ Tech stack
+## 🧶 Tech stack
 
 <div align="center">
 
@@ -35,38 +42,38 @@
 
 <br /><br />
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7a4a2b?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7a4a2b?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-f4a261?style=flat-square&logo=googlegemini&logoColor=2b1d16)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-e76f51?style=flat-square&logo=meta&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-f4a261?style=flat-square&logoColor=2b1d16)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7a4a2b?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-e76f51?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured projects
+## 🐱 Featured projects
 
 | Project | What it is |
 | --- | --- |
-| [**regrag**](https://github.com/Harshaaalll/regrag) | RAG benchmark work on regulatory documents |
-| [**opsagent**](https://github.com/Harshaaalll/opsagent) | Autonomous AI operator: plan-act-verify loop over a real browser, with approval gates and independent verification |
-| [**sanwaad**](https://github.com/Harshaaalll/sanwaad) | Multi-agent complaint resolution with human-approved actions and trace-level evals (LangGraph, Gemini, hybrid RAG) |
-| [**career-copilot**](https://github.com/Harshaaalll/career-copilot) | AI-powered job search system: RAG matching, ATS optimization and more (Streamlit, LangChain, FAISS, Groq) |
-| [**audit-insight**](https://github.com/Harshaaalll/audit-insight) | NLP analytics that turn unstructured audit text into structured, actionable insights |
-| [**airfare-ml**](https://github.com/Harshaaalll/airfare-ml) | End-to-end airline ticket price prediction (XGBoost, LightGBM, scikit-learn) |
-| [**social_media_scrapper**](https://github.com/Harshaaalll/social_media_scrapper) | NLP classification of road-accident severity from social media and news, Hyderabad (BITS Pilani design project) |
+| [🐾 **regrag**](https://github.com/Harshaaalll/regrag) | RAG benchmark work on regulatory documents |
+| [🐾 **opsagent**](https://github.com/Harshaaalll/opsagent) | Autonomous AI operator: plan-act-verify loop over a real browser, with approval gates and independent verification |
+| [🐾 **sanwaad**](https://github.com/Harshaaalll/sanwaad) | Multi-agent complaint resolution with human-approved actions and trace-level evals (LangGraph, Gemini, hybrid RAG) |
+| [🐾 **career-copilot**](https://github.com/Harshaaalll/career-copilot) | AI-powered job search system: RAG matching, ATS optimization and more (Streamlit, LangChain, FAISS, Groq) |
+| [🐾 **audit-insight**](https://github.com/Harshaaalll/audit-insight) | NLP analytics that turn unstructured audit text into structured, actionable insights |
+| [🐾 **airfare-ml**](https://github.com/Harshaaalll/airfare-ml) | End-to-end airline ticket price prediction (XGBoost, LightGBM, scikit-learn) |
+| [🐾 **social_media_scrapper**](https://github.com/Harshaaalll/social_media_scrapper) | NLP classification of road-accident severity from social media and news, Hyderabad (BITS Pilani design project) |
 
 ---
 
-## 📊 GitHub stats
+## 🐈 Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harshaaalll&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Harshaaalll&background=2b1d16&border=7a4a2b&ring=f4a261&fire=f4a261&currStreakNum=fff3e6&sideNums=fff3e6&currStreakLabel=f4a261&sideLabels=f4a261&dates=c9b8a8&hide_border=true" alt="streak" />
 
 <br /><br />
 
@@ -82,6 +89,6 @@
 
 <div align="center">
 
-<sub>Built with ☕ and a little help from a koi.</sub>
+<sub>Built with ☕, a koi, and a cat who sits on the keyboard. 🐱</sub>
 
 </div>
