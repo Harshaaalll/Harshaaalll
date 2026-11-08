@@ -13,6 +13,7 @@
 <a href="https://harshaaalll.github.io/"><img src="https://img.shields.io/badge/Portfolio-harshaaalll.github.io-f4a261?style=for-the-badge&logo=githubpages&logoColor=2b1d16" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/harshal-bhambhani-hhbb24"><img src="https://img.shields.io/badge/LinkedIn-Connect-e76f51?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bhambhaniharshal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20meow-7a4a2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="tel:+918561972727"><img src="https://img.shields.io/badge/Phone-%2B91%2085619%2072727-c97b3d?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Harshaaalll&label=Profile%20views&color=f4a261&labelColor=2b1d16&style=flat" alt="views" />
 
@@ -28,11 +29,36 @@
 
 ## 🐾 About me
 
-- 🎓 Graduate of **BITS Pilani, Hyderabad Campus**
+- 💼 **AI Engineer at OTO Capital**, building production voice agents
+- 📍 Based in **Bangalore**
+- 🎓 Graduate of **BITS Pilani, Hyderabad Campus** (B.E. Electrical & Electronics, minor in Computer Science, 2022 – 2026)
 - 🔭 Building **retrieval-augmented generation (RAG)** systems, **multi-agent workflows** and the **evals** that keep them honest
 - 🧪 Interested in human-approved agent actions, trace-level evaluation and voice / speech pipelines
 - 😺 Curious like a cat: I poke at things until I understand how they work
-- 📫 Best way to reach me: LinkedIn or email, both above
+- 📫 Best way to reach me: LinkedIn, email or phone, all above
+
+---
+
+## 💼 Experience
+
+**🐾 OTO Capital — AI Engineer** · *Aug 2026 – Present*
+- Built a streaming Gemini Live voice agent on FastAPI and Pipecat for 5 tenants, with 201 regression checks.
+- Mined 36,091 call records to show same-day promises convert at 14.1%, which shaped the agent's date ladder.
+- Audited 26 human-collector calls against RBI norms, flagged 17 practices and locked 9 into the agent.
+
+**🐾 Goel Exports — Data & Analytics Consultant** · *Jul 2026 – Aug 2026*
+- Mapped a manual order-to-cash process into a documented, 4-phase Odoo 19 workflow for an export business.
+- Configured field-level validation rules across 6 process stages, each agreed with the process owners.
+
+**🐾 Standard Chartered Global Business Services — Data Science Intern** · *Jul 2025 – Dec 2025*
+- Deployed a production NLP pipeline on Dataiku DSS for 100+ page contracts, cutting audit time by 90%.
+- Fine-tuned DistilBERT under a class-weighted loss, reaching 98.6% recall on rare clauses in contracts.
+- Calibrated confidence thresholds on model output, filtering 95%+ of false positives before human review.
+
+**🐾 DG Liger Consulting — Machine Learning Engineer Intern** · *Jun 2024 – Jul 2024*
+- Constructed a LangChain RAG assistant over 30+ client PDFs, answering business questions in plain language.
+- Indexed MiniLM embeddings into a FAISS vector store, returning grounded answers in under a second each.
+- Quantised a 3B-parameter LLM to 4-bit GGUF, shrinking it from 6GB to 2GB for CPU-only client hardware.
 
 ---
 
