@@ -25,15 +25,9 @@
 
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>AI Engineer · RegRAG — RBI Banking-Regulation RAG Benchmark · Medical Bill OCR — Data Validation &amp; Duplicate Detection · Market Analysis Using LLMs — NLP Pipeline, Model Training &amp; Deployment</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>24 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>235 contributions · 45 active days</p></td>
-</tr>
-</table>
+## 🐾 About me
 
 - 💼 **AI Engineer at OTO Capital**, building production voice agents
 - 📍 Based in **Bangalore**
@@ -66,99 +60,63 @@
 - Indexed MiniLM embeddings into a FAISS vector store, returning grounded answers in under a second each.
 - Quantised a 3B-parameter LLM to 4-bit GGUF, shrinking it from 6GB to 2GB for CPU-only client hardware.
 
-<h2>Proof at a glance</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>24</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>235</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 🧶 Tech stack
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,docker,git,github,githubactions,linux,postgres,sqlite,react,ts,js,html,css,rust,go&perline=9" alt="tech stack" />
+
+<br /><br />
+
+![LangChain](https://img.shields.io/badge/LangChain-7a4a2b?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7a4a2b?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-f4a261?style=flat-square&logo=googlegemini&logoColor=2b1d16)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-e76f51?style=flat-square&logo=meta&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-f4a261?style=flat-square&logoColor=2b1d16)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7a4a2b?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-e76f51?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 🐱 Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [🐾 **regrag**](https://github.com/Harshaaalll/regrag) | RAG benchmark work on regulatory documents |
+| [🐾 **opsagent**](https://github.com/Harshaaalll/opsagent) | Autonomous AI operator: plan-act-verify loop over a real browser, with approval gates and independent verification |
+| [🐾 **sanwaad**](https://github.com/Harshaaalll/sanwaad) | Multi-agent complaint resolution with human-approved actions and trace-level evals (LangGraph, Gemini, hybrid RAG) |
+| [🐾 **career-copilot**](https://github.com/Harshaaalll/career-copilot) | AI-powered job search system: RAG matching, ATS optimization and more (Streamlit, LangChain, FAISS, Groq) |
+| [🐾 **audit-insight**](https://github.com/Harshaaalll/audit-insight) | NLP analytics that turn unstructured audit text into structured, actionable insights |
+| [🐾 **airfare-ml**](https://github.com/Harshaaalll/airfare-ml) | End-to-end airline ticket price prediction (XGBoost, LightGBM, scikit-learn) |
+| [🐾 **social_media_scrapper**](https://github.com/Harshaaalll/social_media_scrapper) | NLP classification of road-accident severity from social media and news, Hyderabad (BITS Pilani design project) |
+
+---
+
+## 🐈 Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harshaaalll&background=2b1d16&border=7a4a2b&ring=f4a261&fire=f4a261&currStreakNum=fff3e6&sideNums=fff3e6&currStreakLabel=f4a261&sideLabels=f4a261&dates=c9b8a8&hide_border=true" alt="streak" />
+
+<br /><br />
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Harshal Bhambhani GitHub proof metrics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshaaalll/Harshaaalll/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshaaalll/Harshaaalll/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Harshaaalll/Harshaaalll/output/github-snake-dark.svg" />
 </picture>
-</p>
 
-<h2>Selected work</h2>
+</div>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&repos=harshaaalll%2FHarshaaalll.github.io&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&repos=harshaaalll%2FHarshaaalll.github.io&v=recruiter-projects-1&mode=dark" width="100%" alt="Harshal Bhambhani selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Harshaaalll/Harshaaalll.github.io">Harshaaalll.github.io</a></h3>
-<p>A selected public project.</p>
-<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Harshaaalll/Harshaaalll.github.io">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+---
 
-<table width="100%">
-<tr>
+<div align="center">
 
-</tr>
-</table>
+<sub>Built with ☕, a koi, and a cat who sits on the keyboard. 🐱</sub>
 
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Harshal Bhambhani technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>74% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>13% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>7% of public code</sub></td>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>Batchfile</strong><br /><sub>0% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=harshaaalll&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171654420%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Harshal Bhambhani contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/harshaaalll">GitHub</a><br /><a href="https://www.linkedin.com/in/harshal-bhambhani-hhbb24">LinkedIn</a><br /><a href="mailto:bhambhaniharshal@gmail.com">Email</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Harshal Bhambhani · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
-## Experience
-
-<table>
-<tr><td width="34%" valign="top"><b>OTO Capital — AI Engineer</b><br /><sub>Aug 2026 – Present</sub></td><td width="66%" valign="top"><ul><li>Built a streaming Gemini Live voice agent on FastAPI and Pipecat for 5 tenants, with 201 regression checks.</li><li>Mined 36,091 call records to show same-day promises convert at 14.1%, which shaped the agent date ladder.</li><li>Audited 26 human-collector calls against RBI norms, flagged 17 practices and locked 9 into the agent.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Goel Exports — Data &amp; Analytics Consultant</b><br /><sub>July 2026 – Aug 2026</sub></td><td width="66%" valign="top"><ul><li>Mapped a manual order-to-cash process into a documented, 4-phase Odoo 19 workflow for an export business.</li><li>Configured field-level validation rules across 6 process stages, each agreed with the process owners.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Standard Chartered Global Business Services Pvt. Ltd. — Data Science Intern</b><br /><sub>Jul 2025 – Dec 2025</sub></td><td width="66%" valign="top"><ul><li>Deployed a production NLP pipeline on Dataiku DSS for 100+ page contracts, cutting audit time by 90%.</li><li>Fine-tuned DistilBERT under a class-weighted loss, reaching 98.6% recall on rare clauses in contracts.</li><li>Calibrated confidence thresholds on model output, filtering 95%+ of false positives before human review.</li></ul></td></tr><tr><td width="34%" valign="top"><b>DG Liger Consulting — Machine Learning Engineer Intern</b><br /><sub>Jun 2024 – Jul 2024</sub></td><td width="66%" valign="top"><ul><li>Constructed a LangChain RAG assistant over 30+ client PDFs, answering business questions in plain language.</li><li>Indexed MiniLM embeddings into a FAISS vector store, returning grounded answers in under a second each.</li><li>Quantised a 3B-parameter LLM to 4-bit GGUF, shrinking it from 6GB to 2GB for CPU-only client hardware.</li></ul></td></tr>
-</table>
-
-<b>Education</b>
-
-- B.E. Electrical &amp; Electronics, Minor in Computer Science — BITS Pilani, Hyderabad (2022 – 2026)
-
-<b>Projects</b>
-
-- <b>Medical Bill OCR — Data Validation &amp; Duplicate Detection</b> — Engineered schema-constrained Qwen 7B prompts that turned noisy OCR text into consistent JSON records. Parallelised 4 validation checks using IQR outliers, reconciliation and SHA-256 duplicate detection rules. Processed
-- <b>Market Analysis Using LLMs — NLP Pipeline, Model Training &amp; Deployment</b> — Scraped 500+ financial articles with BeautifulSoup, turning fragmented sources into one structured dataset. Chained BART summaries and RoBERTa sentiment stages, rebalancing skewed labels via SMOTE oversampling. Launched
+</div>
