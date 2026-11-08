@@ -91,12 +91,6 @@
 
 <div align="center">
 
-<img src="https://cataas.com/cat/gif?width=300" width="300" alt="A random cat GIF" />
-
-<sub>A random cat GIF, different on each load. Say hi. 🐾</sub>
-
-<br /><br />
-
 <sub>Built with ☕, a koi, and a cat who sits on the keyboard. 🐱</sub>
 
 </div>
