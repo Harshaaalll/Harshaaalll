@@ -8,6 +8,8 @@
   > ^ <
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F4A261&center=true&vCenter=true&width=620&height=40&lines=Building+RAG+systems;Shipping+multi-agent+workflows;Writing+evals+that+keep+AI+honest;Fueled+by+coffee+and+cat+naps" alt="Typing animation" />
+
 <a href="https://harshaaalll.github.io/"><img src="https://img.shields.io/badge/Portfolio-harshaaalll.github.io-f4a261?style=for-the-badge&logo=githubpages&logoColor=2b1d16" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/harshal-bhambhani-hhbb24"><img src="https://img.shields.io/badge/LinkedIn-Connect-e76f51?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bhambhaniharshal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20meow-7a4a2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -88,6 +90,12 @@
 ---
 
 <div align="center">
+
+<img src="https://cataas.com/cat/gif?width=300" width="300" alt="A random cat GIF" />
+
+<sub>A random cat GIF, different on each load. Say hi. 🐾</sub>
+
+<br /><br />
 
 <sub>Built with ☕, a koi, and a cat who sits on the keyboard. 🐱</sub>
 
