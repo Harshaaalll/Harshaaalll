@@ -23,7 +23,7 @@
 
 ## About
 
-- AI Engineer at **OTO Capital**, building production voice agents
+- AI Engineer at **OTO Capital**, building production voice agents for lenders (Jana Small Finance Bank, Swarnodhayam MFI, Fusion MFI, Seed Fincap, Satin)
 - Based in **Bangalore**
 - **BITS Pilani, Hyderabad Campus**: B.E. Electrical & Electronics, minor in Computer Science (2022 – 2026)
 - Building **RAG systems**, **multi-agent workflows** and the **evals** that keep them honest
@@ -34,9 +34,11 @@
 ## Experience
 
 **OTO Capital — AI Engineer** · *Aug 2026 – Present*
-- Built a streaming Gemini Live voice agent on FastAPI and Pipecat for 5 tenants, with 201 regression checks.
-- Mined 36,091 call records to show same-day promises convert at 14.1%, which shaped the agent's date ladder.
-- Audited 26 human-collector calls against RBI norms, flagged 17 practices and locked 9 into the agent.
+- Built a Gemini Live voice agent on FastAPI and Pipecat for collections calls in 10 languages, delivered to Jana Small Finance Bank, Swarnodhayam MFI, Fusion MFI, Seed Fincap and Satin.
+- Moved negotiation policy into a deterministic Python gate and cut prompt tokens per turn by 78% (16,558 to 3,596).
+- Pinned 49 live-call defects with regression checks (201 at the first milestone) and a simulator that runs 500+ borrower calls per change.
+- Moved post-call analytics to OpenAI with a Gemini fallback: about ₹0.22 vs ₹0.58 per call across 8,402 calls for Satin.
+- Mined 36,091 call records (same-day promises convert at 14.1% vs 7.3%) and audited 26 human-collector calls against RBI norms, locking 9 prohibited practices into the agent.
 
 **Goel Exports — Data & Analytics Consultant** · *Jul 2026 – Aug 2026*
 - Mapped a manual order-to-cash process into a documented, 4-phase Odoo 19 workflow for an export business.
@@ -58,6 +60,7 @@
 
 | Project | What it is |
 | --- | --- |
+| **Collections voice agent** (private, OTO Capital) | Gemini Live agent where a deterministic Python gate approves every tool call before the model speaks |
 | [**regrag**](https://github.com/Harshaaalll/regrag) | RAG benchmark work on regulatory documents |
 | [**opsagent**](https://github.com/Harshaaalll/opsagent) | Autonomous AI operator: plan-act-verify loop over a real browser, with approval gates and independent verification |
 | [**sanwaad**](https://github.com/Harshaaalll/sanwaad) | Multi-agent complaint resolution with human-approved actions and trace-level evals (LangGraph, Gemini, hybrid RAG) |
